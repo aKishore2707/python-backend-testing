@@ -8,7 +8,7 @@ app = Flask(__name__)
 # =========================
 RDS_HOST = 'database-1.cyry4i0mg01q.us-east-1.rds.amazonaws.com'  # master endpoint
 RDS_USER = 'admin'
-RDS_PASSWORD = 'cloud123'
+RDS_PASSWORD = 'Cloud123'
 RDS_DB_NAME = 'dev'
 TABLE_NAME = 'users'
 
